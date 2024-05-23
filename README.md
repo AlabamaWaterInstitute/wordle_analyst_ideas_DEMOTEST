@@ -31,4 +31,6 @@ For the moment, it appears that the wordlist is being used without any randomiza
 That's not a particularly noble approach, but it seems like you could get perfect scores.
 
 ### Update:
-Sometime in May they started to scramble the word order.
+
+Sometime in May they started to scramble the word order...
+
