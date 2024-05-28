@@ -93,6 +93,7 @@ wordlist = [
     "mines",
     "train",
     "trick",
+    "trace",
     "guess",
 ]
 wordset = set(wordlist)
