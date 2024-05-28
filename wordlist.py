@@ -3,6 +3,7 @@ These words generated in a brainstorm session
 as a list to test from.
 """
 wordlist = [
+	"tires",
     "pizza",
     "write",
     "wards",
