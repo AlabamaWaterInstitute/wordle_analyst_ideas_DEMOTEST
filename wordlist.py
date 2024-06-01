@@ -2,6 +2,22 @@
 These words generated in a brainstorm session
 as a list to test from.
 """
+import random
+
+
+def generate_words(num_words=10):
+    """
+    Generate a list of random words.
+    """
+    words = []
+    for i in range(num_words):
+        word = ""
+        for j in range(5):
+            word += random.choice("abcdefghijklmnopqrstuvwxyz")
+        words.append(word)
+    return words
+
+
 wordlist = [
     "pizza",
     "write",
@@ -96,4 +112,6 @@ wordlist = [
     "trace",
     "guess",
 ]
+wordlist += generate_words(100)
+
 wordset = set(wordlist)
