@@ -32,3 +32,6 @@ That's not a particularly noble approach, but it seems like you could get perfec
 
 ### Update:
 Sometime in May 2023 the NYT started to scramble the word order.
+
+## Quinn's Update:
+Hello!! My name is Quinn. I am a proud NYT games subscriber, and I currently have a 5 day Daily Crossword streak, a 4 day Wordle streak, and am consistently at the top of my Daily Mini leaderboard. Yay!!
